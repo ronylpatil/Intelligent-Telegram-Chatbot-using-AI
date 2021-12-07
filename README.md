@@ -26,6 +26,34 @@ Finally integrate trained model with __Telegram Bot-Pie.__
 
 <b>Dataset Source : https://www.kaggle.com/fusicfenta/chest-xray-for-covid19-detection</b>
 
+<b>Folder Structure : </b>
+```
+                    X-ray       --> main folder
+                      ----| train      
+                          ----| COVID-19
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg
+                          ----| NORMAL
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg
+
+                      ----| test
+                          ----| COVID-19
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg
+                          ----| NORMAL
+                              ----| img1.jpg
+                              ----| img2.jpg
+                              ----| img3.jpg
+                              ----| img4.jpg 
+```
+
 <b>Network Architecture : </b>
 <p align="center">
   <img class="center" src ="/main/vgg.png" alt="Drawing" style="width: 900px; height: 500px">
