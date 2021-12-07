@@ -1,7 +1,7 @@
 # Intelligent Telegram Chatbot using AI
 
 ##### Profile Visits : 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.Potato-Leaf-Disease-Classification&left_color=lightgrey&right_color=yellow&left_text=visitors) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.Intelligent-Telegram-Chatbot-using-AI&left_color=lightgrey&right_color=yellow&left_text=visitors) 
 
 <p align="center">
   <img class="center" src ="https://d2vrvpw63099lz.cloudfront.net/introducing-corona-chatbot/header.png" alt="Drawing" style="width: 1300px; height: 400px">
@@ -27,16 +27,23 @@ Finally integrate trained model with __Telegram Bot-Pie.__
 <b>Dataset Source : https://www.kaggle.com/fusicfenta/chest-xray-for-covid19-detection</b>
 
 <b>Network Architecture : </b>
+<p align="center">
+  <img class="center" src ="/main/vgg.png" alt="Drawing" style="width: 900px; height: 500px">
+</p>
 
 <b>Confusion Matrix : </b>
+<p align="center">
+  <img class="center" src ="/main/confusion matrix.png" alt="Drawing" style="width: 500px; height: 400px">
+</p>
 
 <b>Classification Report : </b>
+<p align="center">
+  <img class="center" src ="/main/classification report.png" alt="Drawing" style="width: 400px; height: 170px">
+</p>
 
 <b>Sample Output : </b>
 
 https://user-images.githubusercontent.com/63307564/145012220-780c329f-2d0c-411e-a592-af0bea269792.mp4
-
-
 
 <!-- ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge) -->
 <br>
