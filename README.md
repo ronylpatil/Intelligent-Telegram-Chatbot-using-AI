@@ -22,7 +22,7 @@ At the end these fusion trained
                        train this model. This fusion learning __reduce the training time__ of our model, in general deep larning
                        it usually takes a lot of time for training a model, but this hybrid technique reduced the training
                        time and at the same time gave __very good accuracy.__
-Finally integrate trained model with __Telegram Bot-Pie.__ 
+Finally integrate trained model with __Telegram Bot-Pie.__
 
 <b>Dataset Source : https://www.kaggle.com/fusicfenta/chest-xray-for-covid19-detection</b>
 
